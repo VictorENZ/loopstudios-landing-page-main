@@ -5,7 +5,8 @@
 }
 
 .header{
-    height: 200px;
+    padding: 50px 133px;
+    height: 526px;
     background-image: url(images/desktop/image-hero.jpg);
     background-size: cover;
     background-position: center;
@@ -14,8 +15,9 @@
 }
 
 .inmersive{
-    padding: 20px;
-    border: white solid 1px;
-    width: 700px;
-    height: 150px;
+    margin-top: 114px;
+    padding: 24px 30px;
+    border: white solid 3px;
+    width: 527px;
+    height: 226px;
 }
