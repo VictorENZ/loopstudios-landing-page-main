@@ -1,5 +1,21 @@
 *{
     margin: 0;
-    width: 0;
+    padding: 0;
     box-sizing: border-box;
+}
+
+.header{
+    height: 200px;
+    background-image: url(images/desktop/image-hero.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.inmersive{
+    padding: 20px;
+    border: white solid 1px;
+    width: 700px;
+    height: 150px;
 }
